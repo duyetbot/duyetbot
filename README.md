@@ -1,6 +1,6 @@
 ### Hi there 👋 🤖 👋
 
-I'm support @duyet ⚡
+I support [@duyet](https://github.com/duyet) ⚡
 
 <!--
 **duyetbot/duyetbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
