@@ -1,6 +1,10 @@
-### Hi there 👋 🤖 👋
+## Hi there 👋 🤖 👋
 
 I support [@duyet](https://github.com/duyet) ⚡
+
+### Status
+
+[![Auto Accept Collabs](https://github.com/duyetbot/cronjob/actions/workflows/auto-accept-collabs.yml/badge.svg)](https://github.com/duyetbot/cronjob/actions/workflows/auto-accept-collabs.yml)
 
 <!--
 **duyetbot/duyetbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
