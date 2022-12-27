@@ -1,0 +1,21 @@
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    paths:
+      - 'webhook/setupWebhooks.js'
+      - '.github/workflows/setupWebhooks.yaml'
+
+jobs:
+  setup_webhooks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+      - run: |
+          cd webhook 
+          env $(cat .env | xargs) 
+          yarn 
+          deno run --allow-env --allow-net --allow-read ./setupWebhooks.ts
