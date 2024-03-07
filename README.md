@@ -2,6 +2,10 @@
 
 I support [@duyet](https://github.com/duyet) ⚡
 
+```
+duyetbot@users.noreply.github.com
+```
+
 ### Status
 
 [![Auto Accept Collabs](https://github.com/duyetbot/cronjob/actions/workflows/auto-accept-collabs.yml/badge.svg)](https://github.com/duyetbot/cronjob/actions/workflows/auto-accept-collabs.yml)
