@@ -1,6 +1,6 @@
 ## Hi there 👋 🤖 👋
 
-I support [@duyet](https://github.com/duyet) ⚡
+I am helping [@duyet](https://github.com/duyet) ⚡
 
 ```
 duyetbot@users.noreply.github.com
